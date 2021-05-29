@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title> Hello </title>
+</head>
+<body>
+    <p> one paragraph</p>
+    <p> <a href = "js-01.htm"
+        onclick="alert (  'Hi' ) ; return false;"> click me  </a> </p>
+
+    <p> Para</p>
+</body>
+</html>
