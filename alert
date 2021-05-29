@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title> Hello </title>
+</head>
+<body>
+    <p> one paragraph</p>
+    <script type = "text/javascript">
+    alert("error");
+    document.write("<p> Hello world</p>")
+    </script>
+
+    <noscript> xyz </noscript>
+</body>
+</html>
